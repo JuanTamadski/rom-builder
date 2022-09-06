@@ -11,9 +11,9 @@ export device=ZS620KL
 
 ROM="PixelExperience"
 manifest_url="https://github.com/PixelExperience/manifest"
-export rom_vendor_name="aosp" # This represent the nams used by different rom vendors, Ex - aosp_harpia-userdebug, aosp is vendor name.
-branch="pie"
+export rom_vendor_name="pe_Z01R-userdebug" # This represent the nams used by different rom vendors, Ex - aosp_harpia-userdebug, aosp is vendor name.
+branch="twelve"
 
 release_repo="JuanTamadski/rom-builder"
 
-timezone="Asia/Kolkata"
+timezone="Asia/Hongkong"
